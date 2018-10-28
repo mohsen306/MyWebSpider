@@ -1,0 +1,14 @@
+appdirs==1.4.3
+atomicwrites==1.2.1
+attrs==18.2.0
+beautifulsoup4==4.6.3
+colorama==0.4.0
+html5lib==1.0.1
+more-itertools==4.3.0
+packaging==18.0
+pluggy==0.8.0
+py==1.7.0
+pyparsing==2.2.2
+pytest==3.9.3
+six==1.11.0
+webencodings==0.5.1
